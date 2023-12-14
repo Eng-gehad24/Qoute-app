@@ -1,0 +1,33 @@
+/* font-family: 'Bungee Inline', sans-serif;
+font-family: 'Pompiere', sans-serif; */
+.qoute{
+   padding: 50px;
+   background-color: aqua;
+   height: 100vh;
+}
+.qoute h1{
+    font-size: 80px;
+    font-weight: 700;
+    color: #000000;
+    padding-bottom: 50px;
+    font-family: 'Bungee Inline', sans-serif;
+}
+.qoute p{
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+button{
+   background-color: blue;
+   border: 0;
+   font-size: 13px;
+   font-weight: 600;
+   padding: 30px 80px;
+   border-radius: 5px;
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   -ms-border-radius: 5px;
+   -o-border-radius: 5px;
+}
+button:hover{
+    background-color: red;
+}
